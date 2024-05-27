@@ -1,8 +1,6 @@
 👋 Hi, I am Meet
 
-I specialize in extracting actionable insights from complex datasets.</br>
-I have a proven track record of enhancing data-driven decision-making processes through Statistical Analysis, Predictive Modeling and Interactive Visualizations.</br>
-With a passion for data and continuous learning, I am eager to contribute my expertise to complex real world problems.</br>
+I have a proven track record of enhancing data-driven decision-making processes through Statistical Analysis, Predictive Modeling and Interactive Visualizations. With a passion for data and continuous learning, I am eager to contribute my expertise to complex real world problems.</br>
 
 <a href="https://www.linkedin.com/in/meetvasani/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/meetvasani/" /></a></br></br>
 
